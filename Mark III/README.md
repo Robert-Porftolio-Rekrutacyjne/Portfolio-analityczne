@@ -1,2 +1,2 @@
-Projekt Power BI
+Project Power BI
 Sales report - Mark III
